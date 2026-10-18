@@ -26,3 +26,4 @@ def search_shipment(weight:float):
 def body_type(data:dict)->str:
     return "oder placed successfully"
 
+
